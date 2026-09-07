@@ -1,7 +1,7 @@
-# patchcourt-test
+## Even or odd
 
-Add a README section that explains how to run the project.
+Check whether a user-entered integer is even or odd.
 
-## How to run
-npm install
-npm start
+### How to run
+node even-odd.js 7
+node even-odd.js 4
